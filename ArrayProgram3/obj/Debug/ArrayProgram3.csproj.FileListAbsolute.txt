@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram3\bin\Debug\ArrayProgram3.exe.config
+C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram3\bin\Debug\ArrayProgram3.exe
+C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram3\bin\Debug\ArrayProgram3.pdb
+C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram3\obj\Debug\ArrayProgram3.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram3\obj\Debug\ArrayProgram3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram3\obj\Debug\ArrayProgram3.exe
+C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram3\obj\Debug\ArrayProgram3.pdb

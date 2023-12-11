@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{20359D63-F610-4391-8B21-A8A9690B3370}</ProjectGuid>
+    <ProjectGuid>{11E9EE4A-DF87-4E42-9136-0D2481598424}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LambdaExpression</RootNamespace>
-    <AssemblyName>LambdaExpression</AssemblyName>
+    <RootNamespace>LINQ</RootNamespace>
+    <AssemblyName>LINQ</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>LambdaExpression.ListLambdaExpression</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AscendingData.cs" />
-    <Compile Include="EvenNum.cs" />
-    <Compile Include="FIndMax.cs" />
-    <Compile Include="ListLambdaExpression.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SearchElement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

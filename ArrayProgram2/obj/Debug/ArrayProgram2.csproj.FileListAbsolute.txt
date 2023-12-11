@@ -1,7 +1,0 @@
-C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram2\bin\Debug\ArrayProgram2.exe.config
-C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram2\bin\Debug\ArrayProgram2.exe
-C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram2\bin\Debug\ArrayProgram2.pdb
-C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram2\obj\Debug\ArrayProgram2.csproj.AssemblyReference.cache
-C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram2\obj\Debug\ArrayProgram2.csproj.CoreCompileInputs.cache
-C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram2\obj\Debug\ArrayProgram2.exe
-C:\Users\Hp\source\repos\ArraysAndStrings\ArrayProgram2\obj\Debug\ArrayProgram2.pdb

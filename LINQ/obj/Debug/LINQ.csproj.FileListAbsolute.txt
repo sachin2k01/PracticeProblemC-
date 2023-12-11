@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\ArraysAndStrings\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Hp\source\repos\ArraysAndStrings\LINQ\bin\Debug\LINQ.exe
+C:\Users\Hp\source\repos\ArraysAndStrings\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Hp\source\repos\ArraysAndStrings\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ArraysAndStrings\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ArraysAndStrings\LINQ\obj\Debug\LINQ.exe
+C:\Users\Hp\source\repos\ArraysAndStrings\LINQ\obj\Debug\LINQ.pdb

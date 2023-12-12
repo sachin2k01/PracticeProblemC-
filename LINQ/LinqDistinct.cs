@@ -37,6 +37,7 @@ namespace LINQ
                 Console.Write(dism+" ");
             }
             Console.WriteLine();    
+
         }
     }
 }

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LINQ.LinqDistinct</StartupObject>
+    <StartupObject>LINQ.LinqProblem</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LinqDistinct.cs" />
+    <Compile Include="LinqProblem.cs" />
     <Compile Include="LinqWhere.cs" />
     <Compile Include="LinqWhere2.cs" />
     <Compile Include="Program.cs" />

@@ -17,9 +17,9 @@ namespace LINQ
         {
 
             List<Employees> Emplist = new List<Employees>()
-            {
-                new Employees { ID = 1, Name="Sahana", Department="IT",Salary=35000},
+            {                
                 new Employees { ID = 2, Name="Akash", Department="Sales", Salary=20000},
+                new Employees { ID = 1, Name="Sahana", Department="IT",Salary=35000},
                 new Employees { ID = 7, Name="Rakesh", Department="Marketing", Salary=28000},
                 new Employees { ID = 8, Name="Sachin", Department="IT", Salary=55500},
                 new Employees { ID = 4, Name="Jayanth", Department="Security", Salary=23000},
@@ -54,6 +54,14 @@ namespace LINQ
                 Console.WriteLine($"ID: {emp.ID} Name: {emp.Name} Salary: {emp.Salary}");
             }
             Console.WriteLine();
+
+
+            //var dist=(from dis in Employees.GetALLEmployees() select dis.Department).Distinct().ToList();
+            //Console.WriteLine("Distinct department people");
+            //foreach(var emp in dist)
+            //{
+            //    Console.WriteLine(emp);
+            //}
         }
     }
 }
